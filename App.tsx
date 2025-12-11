@@ -30,7 +30,7 @@ const PERSONAL_INFO = {
   // INSTRUCTIONS FOR PROFILE PICTURE:
   // Option 1 (Easiest): Place 'profile.jpg' in the 'public' folder of this website repo, then set this to "/profile.jpg"
   // Option 2 (External): Upload image to any public URL (or another GitHub repo) and paste the raw link here.
-  profileImage: "", 
+  profileImage: "Assets/logo.png", 
   social: {
     linkedin: "https://linkedin.com",
     github: "https://github.com/nfe7"

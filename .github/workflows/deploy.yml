@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist # Standard output folder for Vite apps
-          
+
   deploy:
     environment:
       name: github-pages
